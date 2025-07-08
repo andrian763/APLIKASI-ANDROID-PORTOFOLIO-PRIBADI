@@ -8,16 +8,6 @@ Aplikasi ini menampilkan informasi pribadi, pengalaman proyek, dan kontak saya s
 
 ---
 
-## 🖼️ Cuplikan Tampilan
-
-| Beranda | Tentang Saya | Proyek | Kontak |
-|--------|--------------|--------|--------|
-| ![Home](screenshots/home.png) | ![About](screenshots/about.png) | ![Projects](screenshots/projects.png) | ![Contact](screenshots/contact.png) |
-
-> *Pastikan folder `screenshots/` berisi tangkapan layar aplikasi*
-
----
-
 ## 🚀 Fitur Utama
 
 - 🧑‍🎓 **Profil Pribadi**: Ringkasan latar belakang pendidikan dan minat.
