@@ -50,15 +50,6 @@ Kamu bisa mencoba aplikasinya langsung di perangkat Android melalui file APK:
 
 📦 Download APK versi Release : Liat di Folder bernama ( Aplikasi Download )
 
-📫 Kontak
-📧 Email: andrian.simanjuntak@email.com
-
-💼 LinkedIn: https://www.linkedin.com/in/andrian-simanjuntak-b67907333
-
-🐱 GitHub: github.com/andrian763
-
-
-
 ❤️ Lisensi
 Proyek ini bebas digunakan untuk keperluan pribadi dan edukasi. Silakan mencantumkan atribusi jika ingin menggunakan atau mengembangkan lebih lanjut.
 
