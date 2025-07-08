@@ -48,7 +48,7 @@ Pastikan emulator Android atau perangkat fisik tersambung.
 📥 Unduh APK
 Kamu bisa mencoba aplikasinya langsung di perangkat Android melalui file APK:
 
-📦 Download APK versi Release : Liat di Folder bernama ( Aplikasi Download )
+📦 Download APK versi Release : Liat di Folder bernama ( app-release (1).apk )
 
 ❤️ Lisensi
 Proyek ini bebas digunakan untuk keperluan pribadi dan edukasi. Silakan mencantumkan atribusi jika ingin menggunakan atau mengembangkan lebih lanjut.
