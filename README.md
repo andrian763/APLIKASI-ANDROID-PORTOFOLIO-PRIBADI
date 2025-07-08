@@ -30,9 +30,7 @@ Aplikasi ini menampilkan informasi pribadi, pengalaman proyek, dan kontak saya s
 ---
 
 ## 📦 Cara Menjalankan
- 1. Clone repository:
-
-```bash
+1. Clone repository:
 git clone https://github.com/andrian763/portofolio_flutter_app.git
 cd portofolio_flutter_app
 2. Install dependencies:
