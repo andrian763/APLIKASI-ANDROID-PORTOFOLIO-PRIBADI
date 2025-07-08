@@ -53,7 +53,7 @@ Kamu bisa mencoba aplikasinya langsung di perangkat Android melalui file APK:
 📫 Kontak
 📧 Email: andrian.simanjuntak@email.com
 
-💼 LinkedIn: linkedin.com/in/andrian-simanjuntak
+💼 LinkedIn: https://www.linkedin.com/in/andrian-simanjuntak-b67907333
 
 🐱 GitHub: github.com/andrian763
 
